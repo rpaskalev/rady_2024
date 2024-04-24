@@ -1,1 +1,1 @@
-terraform s3 bucket name "old-bucket"
+terraform s3 bucket name "new-bucket"
