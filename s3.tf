@@ -1,1 +1,1 @@
-terraform s3 bucket name "jgdgdj"
+terraform s3 bucket name "new-bucket"
