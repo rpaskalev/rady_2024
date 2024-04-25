@@ -1,1 +1,1 @@
-terraform s3 bucket name "bucket"
+terraform s3 bucket name "bucket-1"
